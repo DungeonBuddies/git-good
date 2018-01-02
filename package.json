@@ -1,0 +1,20 @@
+{
+  "name": "git-good",
+  "version": "1.0.0",
+  "description": "We are GITIN GOOD. =D =P",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sVaterlaus/git-good.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sVaterlaus/git-good/issues"
+  },
+  "homepage": "https://github.com/sVaterlaus/git-good#readme"
+}
